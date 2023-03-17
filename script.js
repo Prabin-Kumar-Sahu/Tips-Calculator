@@ -63,9 +63,7 @@ const increasePeople = () => {
 
 // ** Splits the bill between fewer people **
 const decreasePeople = () => {
-  // guard clause
-  // if amount is 1 or less simply return
-  // (a.k.a you can't decrease the number of people to 0 or negative!)
+ )
 
 
   // decrement the amount of people
